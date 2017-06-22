@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SalesItem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SalesItem\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SalesItem()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SalesItem\r\n
+comment2.params=sp
+comment2.target=SalesItem(double)
+comment3.params=
+comment3.target=int\ getNumOfItem()
+comment4.params=
+comment4.target=double\ getFinalPrice()
+comment5.params=fp
+comment5.target=void\ setPrice(double)
+comment6.params=ni
+comment6.target=void\ setNumber(int)
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FileCommands
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FileCommands\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=idx\ w
+comment1.target=void\ execute(int,\ greenfoot.World)
+comment1.text=\r\n\ execute\ prints\ out\ different\ sentences\ with\ the\ names\ of\ commands.\r\n\ @param\ idx\ is\ a\ integer\ that\ comes\ from\ commands\ string\ and\ World\ w\ is\ a\ world.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment2.params=
+comment2.target=FileCommands()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ FileCommands\r\n
+numComments=3

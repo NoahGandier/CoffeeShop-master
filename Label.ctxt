@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Label\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Label\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=v\ fs
+comment2.target=Label(java.lang.String,\ int)
+comment3.params=v\ fs
+comment3.target=Label(int,\ int)
+comment4.params=newValue
+comment4.target=void\ setValue(java.lang.String)
+comment4.text=\r\n\ setValue\ sets\ value\ equal\ to\ newValue\ and\ runs\ update\ Image\ method.\r\n\ @param\ String\ newValue\ that\ shows\ the\ new,\ updated\ value.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment5.params=newValue
+comment5.target=void\ setValue(int)
+comment5.text=\r\n\ setValue\ sets\ value\ equal\ to\ newValue\ string\ and\ runs\ Image\ method.\r\n\ @param\ integer\ newValue\ that\ takes\ the\ new\ value.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment6.params=newColor
+comment6.target=void\ setFill(java.awt.Color)
+comment6.text=\r\n\ setFill\ sets\ fillColor\ to\ newColor\ and\ runs\ update\ Image\ method.\r\n\ @param\ newColor\ is\ a\ Color.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment7.params=newColor
+comment7.target=void\ setLine(java.awt.Color)
+comment7.text=\r\n\ setLine\ sets\ lineColor\ equal\ to\ newColor\ and\ runs\ update\ Image\ method.\r\n\ @param\ newColor\ is\ a\ Color.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment8.params=
+comment8.target=void\ updateImage()
+comment8.text=\r\n\ updateImage\ updates\ the\ new\ image\ with\ right\ font\ and\ color.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\ \r\n
+numComments=9
